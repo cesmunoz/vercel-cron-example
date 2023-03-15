@@ -1,0 +1,20 @@
+{
+  "name": "vercel-cron-job-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vercel dev",
+    "deploy": "vercel --prod",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vercel": "^28.16.15"
+  },
+  "dependencies": {
+    "next": "^13.2.4"
+  }
+}
